@@ -1,0 +1,72 @@
+* {
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+   
+   }
+   
+   .hero{
+   
+       background-image: url('images/bg1.jpg');
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: center;
+       overflow: hidden;
+       height: 300px;
+       color: aqua;
+   
+   }
+   
+   .project{
+          
+           margin-top: 15px;
+           overflow: hidden;
+           width: 100%;
+   
+   
+   }
+   
+   .project-item{
+   
+       float: left;
+       height: 300px;
+       width: 48%;
+       border: 1px solid green;
+       margin-left: 10px;
+       margin-bottom: 10px;
+       background-repeat: no-repeat;
+       background-size: cover;
+       background-position: center;
+       text-align: center;
+       color: #241212;
+   
+   
+   }
+   
+   .project-content{
+   
+
+       background-color: #F85606;
+   
+   }
+
+
+   .footer{
+    margin-top: 10px;
+    height: 150px;
+    background-color: #212129;
+    color: white;
+}
+
+.footer-item{
+    float: left;
+    width: 33%;
+}
+
+.link{
+    text-decoration: none;
+    display: block;
+    color: #F85606;
+}
+
+
